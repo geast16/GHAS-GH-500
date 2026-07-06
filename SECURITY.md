@@ -26,3 +26,4 @@ This information will help us triage your report more quickly.
 Policy
 See GitHub's Safe Harbor Policy
 Adding more security features & policy information here.
+More security policy info added.
